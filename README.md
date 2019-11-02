@@ -10,3 +10,9 @@ The presentaion talks about the various choices I made to get started with my jo
 and communities. Certaintly we need to fail to taste the fruits of success. 
 BE PATIENT, BE BOLD
 ~~~
+#### Hands on with GIT and Decoding open source
+>> *Presented at RNSIT workshop conducted by @GirlScript Foundation Bangalore 
+~~~
+The presentation dives into open source technologies, focusing on interests of an individual. 
+Later comprises of hands on activity. 
+~~~
