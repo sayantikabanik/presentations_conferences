@@ -16,5 +16,21 @@ BE PATIENT, BE BOLD
 The presentation dives into open source technologies, focusing on interests of an individual. 
 Later comprises of hands on activity. 
 ~~~
-#### REST Coming soon....
-
+#### Python the fun way
+>> *Presented at workshop conducted by @Infosec Girls Bangalore Chapter & WTM Bangalore
+~~~
+The primitive Data Structures of python and a small introduction to flask8 library to
+write better code.
+~~~
+#### Django Unchained
+>> *Presented at workshop conducted by @PyLadies Bangalore 
+~~~
+The presentation dives into open source tools, and Django insights (It was mostly hands-on, 
+the presentation might not communicate all the aspects.
+~~~
+#### Intro to Django Debugging and building Insights
+>> *Presented at virtual conferences @Stackconf Berlin & CCDays Online by KonfHub
+~~~
+The presentation dives into "Logger & Logging" and setting up a Dictionary object for 
+logger in Django. The Data generated is finally used in building meaningful insights. 
+~~~
