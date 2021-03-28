@@ -1,8 +1,6 @@
 
 # Curated list of presentation delivered in various conferences 
 
-## Presentations added 
-
 #### Making right choices  
 - Presented at Devconf 2019 by @RedHat and Developer Weekend 2019 by @Google_student_club*
 ```
