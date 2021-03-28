@@ -34,3 +34,9 @@ the presentation might not communicate all the aspects.
 The presentation dives into "Logger & Logging" and setting up a Dictionary object for 
 logger in Django. The Data generated is finally used in building meaningful insights. 
 ~~~
+#### AWS Basics
+>> *Presented internally within my Team at Twilio
+~~~
+The presentation dives into AWS basics (S3, EC2, EMR etc) and understanding the boto3 python 
+package and REST API
+~~~
