@@ -1,7 +1,7 @@
 
 # Curated list of presentation delivered by me in various conferences
 
-#### Visualization & Underlined Psychology : [link](https://www.canva.com/design/DAEfAiX9Z6Q/Xf1mVWSzkG26w6HAWlEqvA/view?utm_content=DAEfAiX9Z6Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+#### Visualization & Underlined Psychology
 - Presented @ PyCon India 2021 (Case Study included)
 ```
 We humans have been drawing insights since thousands of years ago, 
