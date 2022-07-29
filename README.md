@@ -9,6 +9,8 @@
 The world of data is ever-growing. There are ample technologies out in the market. 
 Through the session, we will see some beautiful open source tools in action. 
 Well knowing tools is often the first step, but indeed an important one.
+
+Some of the handy open source tools discussed were `dagster`, `intake`, `conda` & `GitHub actions`
 ```
 
 #### Visualization & Underlined Psychology
