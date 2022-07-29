@@ -3,6 +3,13 @@
 
 ![Picture of sayantika banik delivering her talk at stackconf 2022](https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg)
 
+#### Data pipelines powered by Open source and fun 
+- Presented @ stackconf 2022 in person at Berlin
+```
+The world of data is ever-growing. There are ample technologies out in the market. 
+Through the session, we will see some beautiful open source tools in action. 
+Well knowing tools is often the first step, but indeed an important one.
+```
 
 #### Visualization & Underlined Psychology
 - Presented @ PyCon India 2021 (Case Study included)
