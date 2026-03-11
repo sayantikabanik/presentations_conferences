@@ -1,5 +1,6 @@
 ## Lost track (high-level summary of speaking engagements)
 
+- Speaker: open data conf @Open Knowledge foundation 
 - Speaker: AiConf 2026 @Nepal Kathmandu
 - Speaker: DevOps Kathmandu 40th meetup
 - Speaker: OLS community spotlight series 
