@@ -1,4 +1,4 @@
-## Lost track (high-level summary of speaking engagements)
+## Lost track (high-level summary of recent speaking engagements)
 
 - Speaker: open data conf 2026 @Open Knowledge foundation 
 - Speaker: AiConf 2026 @Nepal Kathmandu
