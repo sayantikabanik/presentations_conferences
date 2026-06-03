@@ -2,11 +2,12 @@
 
 - Speaker: Break the Pattern 2026 hashtag#IWD Virtual Summit
 - Speaker/ Podcast: [Founders Voyage 2026](https://podfollow.com/founders-voyage/episode/427fc0ad1d8cbf7b7f6c40adecbef6c3dcb1212e/view)
-- Speaker: Open Data conf 2026 @Open Knowledge foundation
+- Speaker: Open Data conf 2026 @Open Knowledge Foundation
 - Speaker: AiConf 2026 @Nepal Kathmandu
 - Speaker: DevOps Kathmandu 40th meetup 2026
+- Speaker: Sunway College Kathmandu, exploring real-world AI agent use cases
 - Speaker: OLS community spotlight series 2026
-- Facilator: OLS Nebula cohort 3&4 2026
+- Facilitator: OLS Nebula cohort 3&4 2026
 - Speaker & host: Webinar series by @datajourneyhq 2026
 - Speaker: FOSSASIA summit 2025
 - Speaker: PyLadiesCon 2024 
