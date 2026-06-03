@@ -1,13 +1,18 @@
 ## Lost track (high-level summary of recent speaking engagements)
 
-- Speaker: open data conf 2026 @Open Knowledge foundation 
+- Speaker: Break the Pattern 2026 hashtag#IWD Virtual Summit
+- Speaker/ Podcast: [Founders Voyage 2026](https://podfollow.com/founders-voyage/episode/427fc0ad1d8cbf7b7f6c40adecbef6c3dcb1212e/view)
+- Speaker: open data conf 2026 @Open Knowledge foundation
 - Speaker: AiConf 2026 @Nepal Kathmandu
-- Speaker: DevOps Kathmandu 40th meetup
-- Speaker: OLS community spotlight series 
-- Speaker & host: Webinar series by @datajourneyhq
+- Speaker: DevOps Kathmandu 40th meetup 2026
+- Speaker: OLS community spotlight series 2026
+- Facilator: OLS Nebula cohort 3&4 2026
+- Speaker & host: Webinar series by @datajourneyhq 2026
 - Speaker: FOSSASIA summit 2025
 - Speaker: PyLadiesCon 2024 
 - Maintainer/Host: PyLadiesCon 2025 maintainer summit with @datajourneyhq
+- Speaker/ Podcast: [Bytes and Brilliance 2025](https://castamatic.com/podcast/episode?feed=https://rss.buzzsprout.com/2326005.rss&guid=Buzzsprout-17699805)
+- Speaker/ Podcast: [The Boundary Breakers Collective 2025](https://www.youtube.com/watch?v=O5WSSjuam1Y)
 
 
 
