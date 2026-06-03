@@ -2,7 +2,7 @@
 
 - Speaker: Break the Pattern 2026 hashtag#IWD Virtual Summit
 - Speaker/ Podcast: [Founders Voyage 2026](https://podfollow.com/founders-voyage/episode/427fc0ad1d8cbf7b7f6c40adecbef6c3dcb1212e/view)
-- Speaker: open data conf 2026 @Open Knowledge foundation
+- Speaker: Open Data conf 2026 @Open Knowledge foundation
 - Speaker: AiConf 2026 @Nepal Kathmandu
 - Speaker: DevOps Kathmandu 40th meetup 2026
 - Speaker: OLS community spotlight series 2026
