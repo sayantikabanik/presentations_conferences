@@ -1,6 +1,6 @@
 ## Lost track (high-level summary of recent speaking engagements)
 
-- Speaker: UNESCO [Capacity Building for Open Science in Asia-Pacific](https://www.unesco.org/en/articles/capacity-building-open-science-asia-pacific-advancing-collaborative-research-sustainable-development)
+- Speaker: UNESCO [Session 09: Capacity Building for Open Science in Asia-Pacific](https://www.unesco.org/en/articles/open-science-unesco-recommendation-reality-asia-and-pacific-session-9)
 - Speaker: Break the Pattern 2026 hashtag#IWD Virtual Summit
 - Speaker/ Podcast: [Founders Voyage 2026](https://podfollow.com/founders-voyage/episode/427fc0ad1d8cbf7b7f6c40adecbef6c3dcb1212e/view)
 - Speaker: Open Data conf 2026 @Open Knowledge Foundation
