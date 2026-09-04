@@ -2,7 +2,7 @@
 
 - Speaker: UNESCO [Session 09, Aug 2026: Capacity Building for Open Science in Asia-Pacific](https://www.unesco.org/en/articles/open-science-unesco-recommendation-reality-asia-and-pacific-session-9)
 - Interview with Karvtech Insider: [Designing trustworthy AI systems](https://karvtechinsider.com/ai/leader-interviews/sayantika-banik-on-building-datajourneyhq-designing-trustworthy-ai-systems-and-the-future-of-data-led-decision-making)
-- Interview with Eclipse Foundation: [Open source and My Journey](https://opensourceglobalvoices.org/how-sayantika-turned-wanderlust-into-open-source-innovation/)
+- Interview with Eclipse Foundation: [Open Source + Founding DataJourneyHQ](https://opensourceglobalvoices.org/how-sayantika-turned-wanderlust-into-open-source-innovation/)
 - Speaker: Break the Pattern 2026 hashtag#IWD Virtual Summit
 - Speaker/ Podcast: [Founders Voyage 2026](https://podfollow.com/founders-voyage/episode/427fc0ad1d8cbf7b7f6c40adecbef6c3dcb1212e/view)
 - Speaker: Open Data conf 2026 @Open Knowledge Foundation
