@@ -1,6 +1,9 @@
 ## Lost track (high-level summary of recent speaking engagements)
 
-![Picture of sayantika banik delivering her talk at stackconf 2022](https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg" width="70%" height="50%" alt="sayantika banik delivering her talk at stackconf 2022">
+</div>
+
 
 - Speaker: UNESCO [Session 09, Aug 2026: Capacity Building for Open Science in Asia-Pacific](https://www.unesco.org/en/articles/open-science-unesco-recommendation-reality-asia-and-pacific-session-9)
 - Interview with Karvtech Insider 2026: [Designing trustworthy AI systems](https://karvtechinsider.com/ai/leader-interviews/sayantika-banik-on-building-datajourneyhq-designing-trustworthy-ai-systems-and-the-future-of-data-led-decision-making)
