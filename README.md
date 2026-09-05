@@ -1,7 +1,7 @@
 ## Lost track (high-level summary of recent speaking engagements)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg" width="70%" height="50%" alt="sayantika banik delivering her talk at stackconf 2022">
+<img src="https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg" width="60%" height="40%" alt="sayantika banik delivering her talk at stackconf 2022">
 </div>
 
 
