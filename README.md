@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg" width="60%" height="40%" alt="sayantika banik delivering her talk at stackconf 2022">
 </div>
 
-- Speaker: [All Things Open 2026](https://2026.allthingsopen.org/) RDU, USA
+- Speaker: [All Things Open 2026](https://2026.allthingsopen.org/) Raleigh, USA
 - Speaker & Workshop host: AI for SME(s) in hospitality, [Event Recap](https://datajourneyhq.com/blog/when-ai-speaks-the-language-of-work/)
 - Facilitator & Speaker: Stripe Open Source Community Launch Sep,2026 [Recap blog](https://datajourneyhq.com/blog/stripe-open-source-community-launch/)
 - Speaker: UNESCO [Session 09, Aug 2026: Capacity Building for Open Science in Asia-Pacific](https://www.unesco.org/en/articles/open-science-unesco-recommendation-reality-asia-and-pacific-session-9)
