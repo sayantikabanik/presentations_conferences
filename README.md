@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/17350312/181747053-2f424f81-e822-4779-a68d-4d9deef9d139.jpeg" width="60%" height="40%" alt="sayantika banik delivering her talk at stackconf 2022">
 </div>
 
-- Instructor & Curriculum Builder: [DataJourneyHQ Academy](https://academy.datajourneyhq.com/),Practical Agentic Security with OSS
+- Instructor & Curriculum Builder: [DataJourneyHQ Academy, Nov-Dec 2026](https://academy.datajourneyhq.com/),Practical Agentic Security with OSS
 - Host & Facilitator: Stripe Open Source Community Nov 2026, [Discussion: How PSF Supports the Open Source Ecosystem](https://datajourneyhq.com/blog/how-psf-supports-the-open-source-ecosystem/) 
 - Speaker: [All Things Open 2026](https://2026.allthingsopen.org/) Raleigh, USA
 - Speaker & Workshop host: AI for SME(s) in hospitality, [Event Recap](https://datajourneyhq.com/blog/when-ai-speaks-the-language-of-work/)
